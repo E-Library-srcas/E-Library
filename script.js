@@ -444,6 +444,94 @@ const books = [
         "url": "https://www.insightsonindia.com/wp-content/uploads/2013/07/old-ncert-world-history-class-10-pdf-format.pdf",
         "image": "https://imgv2-2-f.scribdassets.com/img/document/238150598/original/63209af4b3/1?v=1"
     },
+    {
+        "title": "Modern Physics",
+        "author": "Paul A. Tipler",
+        "edition": "5th",
+        "category": "Physics",
+        "url": "https://web.pdx.edu/~pmoeck/books/Tipler_Llewellyn.pdf",
+        "image": "https://m.media-amazon.com/images/I/51ogaTcn16L._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+        "title": "Introductory Physics I",
+        "author": "Robert G. Brown",
+        "edition": "none",
+        "category": "Physics",
+        "url": "https://webhome.phy.duke.edu/~rgb/Class/intro_physics_1/intro_physics_1.pdf",
+        "image": "https://m.media-amazon.com/images/I/911-2v5Yq8L.jpg"
+    },
+    {
+        "title": "Particle Physics Reference Library",
+        "author": "Herwig Schopper",
+        "edition": "1st",
+        "category": "Physics",
+        "url": "https://library.oapen.org/bitstream/20.500.12657/41755/1/2020_Book_ParticlePhysicsReferenceLibrar.pdf",
+        "image": "https://directory.doabooks.org/bitstream/handle/20.500.12854/28263/2020_Book_ParticlePhysicsReferenceLibrar.pdf.jpg"
+    },
+    {
+        "title": "Selected Topics in Plasma Physics",
+        "author": "y Sukhmander Singh",
+        "edition": "none",
+        "category": "Physics",
+        "url": "https://mts.intechopen.com/storage/books/8490/authors_book/authors_book.pdf",
+        "image": "https://m.media-amazon.com/images/I/61ZqrzR3A0L._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+        "title": "Shaping the Future of Biological Education Research",
+        "author": "Konstantinos Korfiatis",
+        "edition": "none",
+        "category": "Biology",
+        "url": "https://library.oapen.org/bitstream/20.500.12657/86132/1/978-3-031-44792-1.pdf",
+        "image": "https://m.media-amazon.com/images/I/61xd9BOyy4L._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+        "title": "Foundations of Theoretical Approaches in Systems Biology",
+        "author": " Alberto Marin-Sanguino",
+        "edition": "none",
+        "category": "Biology",
+        "url": "https://www.frontiersin.org/research-topics/3688/pdf",
+        "image": "https://directory.doabooks.org/bitstream/handle/20.500.12854/47958/Thumb_166.jpg"
+    },
+    {
+        "title": "Advanced Biology",
+        "author": "Dr. P. Muthukumaran",
+        "edition": "none",
+        "category": "Biology",
+        "url": "https://skyfox.co/wp-content/uploads/2020/08/Advanced-biology.pdf",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsh0gI4u5O1jN2lfX-wQ28hwWPHxtXM-00o3S5usUBTHNNVBTn"
+    },
+    {
+        "title": "Chemical Biology",
+        "author": "Deniz Ekinci",
+        "edition": "none",
+        "category": "Biology",
+        "url": "https://mts.intechopen.com/storage/books/2232/authors_book/authors_book.pdf",
+        "image": "https://directory.doabooks.org/bitstream/handle/20.500.12854/65573/web_image.jpg"
+    },
+    {
+        "title": "Biological Control of Arthropods",
+        "author": "Langkawi",
+        "edition": "none",
+        "category": "Biology",
+        "url": "https://www.cabidigitallibrary.org/doi/pdf/10.1079/9781786394118.0000?download=true",
+        "image": "https://directory.doabooks.org/bitstream/handle/20.500.12854/57049.3/9781786394118.cover.jpg"
+    },
+    {
+        "title": "Synthetic biology applications in industrial microbiology",
+        "author": "Weiwen Zhang",
+        "edition": "none",
+        "category": "Biology",
+        "url": "https://www.frontiersin.org/research-topics/455/pdf",
+        "image": "https://directory.doabooks.org/bitstream/handle/20.500.12854/60413/Thumb_166.jpg"
+    },
+    {
+        "title": "",
+        "author": "",
+        "edition": "",
+        "category": "",
+        "url": "",
+        "image": ""
+    },
 
 
 
