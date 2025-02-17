@@ -380,6 +380,70 @@ const books = [
         "url": "https://www.nrigroupindia.com/e-book/Introduction%20to%20Machine%20Learning%20with%20Python%20(%20PDFDrive.com%20)-min.pdf",
         "image": "https://m.media-amazon.com/images/I/911CH8DQeUL._AC_UF1000,1000_QL80_.jpg"
     },
+    {
+        "title": "Buried in the Red Dirt",
+        "author": "Frances S. Hasso",
+        "edition": "none",
+        "category": "History",
+        "url": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/A47416428BE9E8F9E03BA624A65831BC/9781316513545AR.pdf",
+        "image": "https://assets.cambridge.org/97813165/13545/cover/9781316513545.jpg"
+    },
+    {
+        "title": "Living for the City",
+        "author": "Miles Larmer",
+        "edition": "none",
+        "category": "History",
+        "url": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/29E9C8673D3BC6498AEFA2F297EF0AE5/9781108833158AR.pdf",
+        "image": "https://assets.cambridge.org/97811089/72772/cover/9781108972772.jpg"
+    },
+    {
+        "title": "Pirates of Empire",
+        "author": "Stefan Eklöf Amirell",
+        "edition": "none",
+        "category": "History",
+        "url": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/5E1D8EA4E7DCDD5A3B4384E8FC61C0CF/9781108484213AR.pdf",
+        "image": "https://assets.cambridge.org/97811087/06100/cover/9781108706100.jpg"
+    },
+    {
+        "title": "OUR PASTS-I",
+        "author": "Author",
+        "edition": "none",
+        "category": "History",
+        "url": "https://www.drishtiias.com/images/pdf/History6.pdf",
+        "image": "https://website-assets.studocu.com/img/document_thumbnails/6de0d9750667d35da0b319dc3bcd9811/thumb_1200_1603.png"
+    },
+    {
+        "title": "BACHELOR OF ARTS IN HISTORY",
+        "author": "Ms. Aliva Panda",
+        "edition": "none",
+        "category": "History",
+        "url": "https://ddceutkal.ac.in/Downloads/UG_SLM/History/GE_1.pdf",
+        "image": "https://imgv2-1-f.scribdassets.com/img/document/788158235/149x198/9e259362a0/1730785643?v=1"
+    },
+    {
+        "title": "Universal History",
+        "author": "TYTLER",
+        "edition": "1st",
+        "category": "History",
+        "url": "https://maint.loc.gov/law/mlr/Lieber_Collection-pdf/Universal-History_Vol-I.pdf",
+        "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTWvo7hkkhj27f0TJBNt4S0HGrxMPvaapKu8YQyrKUyUjHy5ngp"
+    },
+    {
+        "title": "MODERN INDIA EDITORIAL BOARD",
+        "author": "Dr. S. Gopal",
+        "edition": "none",
+        "category": "History",
+        "url": "https://blogmedia.testbook.com/kmat-kerala/wp-content/uploads/2023/05/history-of-modern-india-bipin-chandra.wifigyan.com_-36a55e3a.pdf",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWcUMwYO6Hyv9ZV4828ObfK4ksIZRKDvNpytsWeOo46UoIs_s7"
+    },
+    {
+        "title": "THE STORY OF CIVILIZATION",
+        "author": "ARJUN DEV",
+        "edition": "2nd",
+        "category": "History",
+        "url": "https://www.insightsonindia.com/wp-content/uploads/2013/07/old-ncert-world-history-class-10-pdf-format.pdf",
+        "image": "https://imgv2-2-f.scribdassets.com/img/document/238150598/original/63209af4b3/1?v=1"
+    },
 
 
 
