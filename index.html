@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>E-Library for Students (SRCAS)</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<div id="loading-screen">
+    <img src="https://upload.wikimedia.org/wikipedia/en/thumb/d/db/Sri_Ramakrishna_College_of_Arts_and_Science.svg/1200px-Sri_Ramakrishna_College_of_Arts_and_Science.svg.png" alt="SRCAS Logo">
+    <div class="loader"></div>
+</div>
+
+    <div id="login-screen">
+<img src="https://upload.wikimedia.org/wikipedia/en/thumb/d/db/Sri_Ramakrishna_College_of_Arts_and_Science.svg/1200px-Sri_Ramakrishna_College_of_Arts_and_Science.svg.png" 
+         alt="SRCAS Logo" class="login-logo">
+        <h2>Login to E-Library</h2>
+        <input type="text" id="email" placeholder="Enter your email">
+        <input type="password" id="password" placeholder="Enter your password">
+        <button onclick="authenticateUser()">Login</button>
+        <p id="error-message" style="color: red;"></p>
+    </div>
+    <div id="main-content" class="hidden">
+        <h1><img id="logo"src="logo.png"> E-Library SRCAS</h1>
+        <input type="text" id="searchBox" placeholder="Search by title, author, or edition..." onkeyup="searchBooks()">
+        <select id="categorySelect" onchange="searchBooks()">
+            <option value="">All Categories</option>
+            <option value="Python">Python</option>
+            <option value="Java">Java</option>
+            <option value="Cloud Computing">Cloud Computing</option>
+            <option value="C">C</option>
+            <option value="C++">C++</option>
+            <option value="HTML">HTML</option>
+            <option value="CSS">CSS</option>
+            <option value="JavaScript">JavaScript</option>
+            <option value="History">History</option>
+            <option value="Physics">Physics</option>
+        </select>
+        <div id="bookList"></div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
