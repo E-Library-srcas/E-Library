@@ -866,6 +866,7 @@ const books = [
         "url": "https://library.oapen.org/bitstream/20.500.12657/47291/1/9783030631352.pdf",
         "image": "https://m.media-amazon.com/images/I/51WrmWyuSJL._AC_UF1000,1000_QL80_.jpg"
     }   
+    
         ];
 
         function displayBooks(filteredBooks) {
