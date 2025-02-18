@@ -16,6 +16,7 @@ h2 {
 }
 #h1{
     font-size: 40px;
+    color: #6f2c91;
 }
 
 #loading-screen {
@@ -83,7 +84,7 @@ h2 {
     outline: none;
     text-align: center;
     background: #d1ecf1;
-    color: #333;
+    color: #800080;
 }
 
 #categorySelect {
