@@ -92,6 +92,86 @@ const books = [
         "image": "https://img.youtube.com/vi/0SSxKMD3ICc/0.jpg"
     },
     {
+        "title": "Hire Purchase System",
+        "author": "SRCAS Official",
+        "edition": "N/A",
+        "category": "Video-Contents",
+        "url": "https://www.youtube.com/embed/SQVIsX8Am6c",
+        "image": "https://img.youtube.com/vi/SQVIsX8Am6c/0.jpg"
+    },
+    {
+        "title": "Commandline Arguments in C",
+        "author": "SRCAS Official",
+        "edition": "N/A",
+        "category": "Video-Contents",
+        "url": "https://www.youtube.com/embed/cYlPHqlj3eI",
+        "image": "https://img.youtube.com/vi/cYlPHqlj3eI/0.jpg"
+    },
+    {
+        "title": "Pointers in C",
+        "author": "SRCAS Official",
+        "edition": "N/A",
+        "category": "Video-Contents",
+        "url": "https://www.youtube.com/embed/OsIKsaNcyd0",
+        "image": "https://img.youtube.com/vi/OsIKsaNcyd0/0.jpg"
+    },
+    {
+        "title": "Operating System - Kernel & Security",
+        "author": "SRCAS Official",
+        "edition": "N/A",
+        "category": "Video-Contents",
+        "url": "https://www.youtube.com/embed/xBd_WAU1Q6Q",
+        "image": "https://img.youtube.com/vi/xBd_WAU1Q6Q/0.jpg"
+    },
+    {
+        "title": "Software Engineering - Maintenance & Re-engineering",
+        "author": "SRCAS Official",
+        "edition": "N/A",
+        "category": "Video-Contents",
+        "url": "https://www.youtube.com/embed/osDOEmW6u9s",
+        "image": "https://img.youtube.com/vi/osDOEmW6u9s/0.jpg"
+    },
+    {
+        "title": "Data Structures - QUEUE",
+        "author": "SRCAS Official",
+        "edition": "N/A",
+        "category": "Video-Contents",
+        "url": "https://www.youtube.com/embed/yMfxOtYnFcQ",
+        "image": "https://img.youtube.com/vi/yMfxOtYnFcQ/0.jpg"
+    },
+    {
+        "title": "XML Basics",
+        "author": "SRCAS Official",
+        "edition": "N/A",
+        "category": "Video-Contents",
+        "url": "https://www.youtube.com/embed/Ra3JuNbJhUo",
+        "image": "https://img.youtube.com/vi/Ra3JuNbJhUo/0.jpg"
+    },
+    {
+        "title": "XML Elements & Attributes",
+        "author": "SRCAS Official",
+        "edition": "N/A",
+        "category": "Video-Contents",
+        "url": "https://www.youtube.com/embed/pbb84XcFaeU",
+        "image": "https://img.youtube.com/vi/pbb84XcFaeU/0.jpg"
+    },
+    {
+        "title": "Structures",
+        "author": "SRCAS Official",
+        "edition": "N/A",
+        "category": "Video-Contents",
+        "url": "https://www.youtube.com/embed/YM5iqrbdmnM",
+        "image": "https://img.youtube.com/vi/YM5iqrbdmnM/0.jpg"
+    },
+    {
+        "title": "XML",
+        "author": "SRCAS Official",
+        "edition": "N/A",
+        "category": "Video-Contents",
+        "url": "https://www.youtube.com/embed/TYGD8BsWFuU",
+        "image": "https://img.youtube.com/vi/TYGD8BsWFuU/0.jpg"
+    },
+    {
         "title": "Collaborating via Social",
         "author": "SRCAS Official",
         "edition": "N/A",
