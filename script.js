@@ -570,6 +570,31 @@ const books = [
         "url": "https://education.giakonda.org.uk/Biology/BIOLOGY(BORNIFACE).pdf",
         "image": "https://s3.studylib.net/store/data/025544412_1-42d76a42689c02a8bd5e276993bea1b8-768x994.png"
     },
+    {
+        "title": "MATHEMATICS FOR MACHINE LEARNING",
+        "author": "Marc Peter Deisenroth",
+        "edition": "none",
+        "category": "Maths",
+        "url": "https://mml-book.github.io/book/mml-book.pdf",
+        "image": "https://rukminim2.flixcart.com/image/850/1000/knt7zbk0/book/d/l/t/mathematics-for-machine-learning-original-imag2epv9hfz8tzr.jpeg"
+    },
+    {
+        "title": "Handbook of Optimization",
+        "author": "Ivan Zelinka",
+        "edition": "1st",
+        "category": "Maths",
+        "url": "https://core.ac.uk/download/pdf/153409843.pdf",
+        "image": "https://m.media-amazon.com/images/I/61yxK6tVyBL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+        "title": "Optimization: Principles and Algorithms",
+        "author": "Michel Bierlaire",
+        "edition": "1st",
+        "category": "Maths",
+        "url": "https://transp-or.epfl.ch/books/optimization/html/OptimizationPrinciplesAlgorithms2018.pdf",
+        "image": "https://m.media-amazon.com/images/I/71SruOBWgDL._AC_UF1000,1000_QL80_.jpg"
+    },
+    
 
 
 
