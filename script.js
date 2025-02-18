@@ -4,7 +4,6 @@ document.addEventListener("DOMContentLoaded", function () {
         document.getElementById("login-screen").classList.remove("hidden"); // Show login screen after loading
     }, 3000);
 });
-
 function authenticateUser() {
     const users = {
         "23129001@srcas.ac.in": "23129001",
@@ -67,9 +66,8 @@ function authenticateUser() {
         "23129058@srcas.ac.in": "23129058",
         "23129059@srcas.ac.in": "23129059",
         "23129060@srcas.ac.in": "23129060",
+        "sample@gmail.com": "sample"
     };
-    
-
     let email = document.getElementById("email").value;
     let password = document.getElementById("password").value;
 
@@ -525,12 +523,52 @@ const books = [
         "image": "https://directory.doabooks.org/bitstream/handle/20.500.12854/60413/Thumb_166.jpg"
     },
     {
-        "title": "",
-        "author": "",
-        "edition": "",
-        "category": "",
-        "url": "",
-        "image": ""
+        "title": "BIOLOGY for Dummies",
+        "author": " Rene Fester Kratz",
+        "edition": "2nd",
+        "category": "Biology",
+        "url": "https://kamsc.github.io/assets/links/Biology%20for%20Dummies.pdf",
+        "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQSoHm9gWzyqwz_axmjTWTdeGxKUYOPXQ5fJbz_JvYT4c1pZyKB"
+    },
+    {
+        "title": "ADVANCED BIOLOGY",
+        "author": "WHEAT & FITZPATRICK",
+        "edition": "none",
+        "category": "Biology",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Advanced_biology_(IA_advancedbiology00whea).pdf",
+        "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTwo7xcjJpSLgKjmBgrplGNlR9ubXfYZ9wRmNxc93eOaRDShfuu"
+    },
+    {
+        "title": "BASIC BIOLOGY",
+        "author": "Adam Purcell",
+        "edition": "1st",
+        "category": "Biology",
+        "url": "https://www.basicbiology.net/wp-content/uploads/edd/2018/05/Basic-Biology-an-introduction.pdf",
+        "image": "https://cdn.kobo.com/book-images/be9902c6-4ace-43c7-b2ce-ae6dd04e933f/353/569/90/False/basic-biology-1.jpg"
+    },
+    {
+        "title": "BIOLOGY FOR ENGINEERS",
+        "author": "DR. ANNAMMA ODANETH",
+        "edition": "none",
+        "category": "Biology",
+        "url": "https://mpbou.edu.in/uploads/files/Biology_for_Engineers_-_Final_compressed.pdf",
+        "image": "https://m.media-amazon.com/images/I/71vt7J2V0DL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+        "title": "INTRODUCTION TO BIOLOGY",
+        "author": "Author",
+        "edition": "none",
+        "category": "Biology",
+        "url": "https://s3-us-west-2.amazonaws.com/oa2/docfiles/12068c45-dcb8-4f07-a622-96da497d6b27/12068c45-dcb8-4f07-a622-96da497d6b27.pdf",
+        "image": "https://imgv2-1-f.scribdassets.com/img/document/766077788/149x198/0995e0b3a9/1725527574?v=1"
+    },
+    {
+        "title": "SIMPLY BIOLOGY",
+        "author": "ST. LISBON PUBLICATIONS",
+        "edition": "1st",
+        "category": "Biology",
+        "url": "https://education.giakonda.org.uk/Biology/BIOLOGY(BORNIFACE).pdf",
+        "image": "https://s3.studylib.net/store/data/025544412_1-42d76a42689c02a8bd5e276993bea1b8-768x994.png"
     },
 
 
