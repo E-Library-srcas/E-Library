@@ -594,7 +594,47 @@ const books = [
         "url": "https://transp-or.epfl.ch/books/optimization/html/OptimizationPrinciplesAlgorithms2018.pdf",
         "image": "https://m.media-amazon.com/images/I/71SruOBWgDL._AC_UF1000,1000_QL80_.jpg"
     },
-    
+    {
+        "title": "1300 Maths Formulas",
+        "author": "Alex Svirin",
+        "edition": "1st",
+        "category": "Maths",
+        "url": "https://drive.uqu.edu.sa/_/quc_physics/files/1300%20Math%20Formulas%20by%20Golden%20Art.pdf",
+        "image": "https://easyengineering.net/wp-content/uploads/2017/10/1300-Math-FormulasPDF-By-Alex-Svirin.jpg"
+    },
+    {
+        "title": "Formulae of Mathematics",
+        "author": "R.K. Malik",
+        "edition": "1st",
+        "category": "Maths",
+        "url": "https://mathsprasad.wordpress.com/wp-content/uploads/2019/12/formulae-of-mathematics.pdf",
+        "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSwvPkzLtlgo3zLHoVcbFXw53yzhawfYZsoY93iMUFy7WiFKgfL"
+    },
+    {
+        "title": "SECRETS OF MENTAL MATH",
+        "author": "Benjamin",
+        "edition": "1st",
+        "category": "Maths",
+        "url": "https://visaldiary.wordpress.com/wp-content/uploads/2011/07/secrets-of-mental-math.pdf",
+        "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSxcOBvTbuuDJxcFsQTAKzfroaLai9sxbDtmO9vf2ewG8F2JqaM"
+    },
+    {
+        "title": "Quick and Easy Math",
+        "author": "Isaac Asimov",
+        "edition": "1st",
+        "category": "Maths",
+        "url": "https://www.arvindguptatoys.com/arvindgupta/asimov-quick-maths.pdf",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjA81ARzCsHGziSWs1eezcfKfOl0vJsPrDqgXj80Wdo4wUK3xoUTNOguGqPMpb2dOoB60&usqp=CAU"
+    },
+    {
+        "title": "8 MATH HACKS AND TRICKS",
+        "author": "Author",
+        "edition": "none",
+        "category": "Maths",
+        "url": "https://edcuration.com/resource/product/1066/8_Math_Hacks_and_Tricks_to_Turn_Okay_Student_to_Math_Champion%20(1).pdf",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSckk25-lAfAAdFvPwXXKzll3DhZch5-v3ppzHLFyOdg5ENmXtH"
+    },
+
 
 
 
