@@ -739,13 +739,102 @@ const books = [
         "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRl0OC1jpSX1eMNPDtSVoNYZ2adED9SGF_hgD3rLfxp7SQgkQWS"
     },
     {
-        "title": "",
-        "author": "",
-        "edition": "",
-        "category": "",
-        "url": "",
-        "image": ""
+        "title": "Accounting from a Cross-Cultural Perspective",
+        "author": "Asma Salman ",
+        "edition": "none",
+        "category": "Accounts",
+        "url": "https://mts.intechopen.com/storage/books/6660/authors_book/authors_book.pdf",
+        "image": "https://m.media-amazon.com/images/I/51aE0vjtgUL._AC_UF1000,1000_QL80_.jpg"
     },
+    {
+        "title": " Accountability in Public Policy Partnerships",
+        "author": "Julia Steets",
+        "edition": "none",
+        "category": "Accounts",
+        "url": "https://library.oapen.org/bitstream/handle/20.500.12657/34606/392745.pdf;jsessionid=F8DA8D7EF8A425359A182AD129D7866C?sequence=1",
+        "image": "https://media.springernature.com/full/springer-static/cover-hires/book/978-0-230-29061-7"
+    },
+    {
+        "title": "BASICS OF ACCOUNTING",
+        "author": "Author",
+        "edition": "1st",
+        "category": "Accounts",
+        "url": "https://anujjindal.in/wp-content/uploads/2022/08/Basics-of-Accounting.pdf",
+        "image": "https://imgv2-1-f.scribdassets.com/img/document/740373919/149x198/b66ace4fef/1717832877?v=1"
+    },
+    {
+        "title": "FUNDAMENTALS OF ACCOUNTING",
+        "author": "Author",
+        "edition": "2nd",
+        "category": "Accounts",
+        "url": "https://icmai.in/upload/Students/Syllabus-2012/Study_Material_New/Foundation-Paper2-Revised.pdf",
+        "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRiIRHciy3me6ABKfmVHjScXBwoigCUSllZqnQ6tSv9DTkU4nHI"
+    },
+    {
+        "title": "Book keeping & Accountancy",
+        "author": "STANDARD ELEVEN",
+        "edition": "none",
+        "category": "Accounts",
+        "url": "https://books.ebalbharati.in/pdfs/1103020425.pdf",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRYwq-b_o9_-ZzJALCr_zS07VW0Xxyl1MFs3GLNe2wqTToVtHzbwQovzmeT64LXzK4YF8&usqp=CAU"
+    },
+    {
+        "title": "Principals off financial Accounting",
+        "author": "Christine Jonick",
+        "edition": "none",
+        "category": "Accounts",
+        "url": "https://web.ung.edu/media/university-press/Principles-of-Financial-Accounting.pdf?t=1542408454385",
+        "image": "https://m.media-amazon.com/images/I/71kZLu36FcL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+        "title": "Accounting I",
+        "author": "Author",
+        "edition": "none",
+        "category": "Accounts",
+        "url": "https://www.opentextbooks.org.hk/system/files/export/12/12841/pdf/Accounting_I_12841.pdf",
+        "image": "https://dirzon.com/file/telegram/Ethio-exams/accounting%202.png"
+    },
+    {
+        "title": "GOLDEN BOOK OF ACCOUNTING & FINANCE",
+        "author": "Author",
+        "edition": "none",
+        "category": "Accounts",
+        "url": "https://jguni.in/images/question-bank/golden-book-of-accounting-finance-interviews.pdf",
+        "image": "https://images-eu.ssl-images-amazon.com/images/I/81IfMr8eyML._AC_UL600_SR600,600_.jpg"
+    },
+    {
+        "title": "Social Accountability ",
+        "author": "Ward Vloeberghs",
+        "edition": "none",
+        "category": "Accounts",
+        "url": "https://library.oapen.org/bitstream/handle/20.500.12657/89940/978-3-031-51322-0.pdf;jsessionid=D5304B47BC383EFF3247096834541AEF?sequence=1",
+        "image": "https://directory.doabooks.org/bitstream/handle/20.500.12854/136511/978-3-031-51322-0.pdf.jpg"
+    },
+    {
+        "title": "Understanding Accountability",
+        "author": "Yannis Papadopoulos",
+        "edition": "none",
+        "category": "Accounts",
+        "url": "https://library.oapen.org/bitstream/handle/20.500.12657/91679/213946.pdf",
+        "image": "https://assets.cambridge.org/97811089/78231/cover/9781108978231.jpg"
+    },
+    {
+        "title": "Extracting Accountability",
+        "author": "Jesicca M.Smith",
+        "edition": "none",
+        "category": "Accounts",
+        "url": "https://direct.mit.edu/books/oa-monograph-pdf/2244246/book_9780262366151.pdf",
+        "image": " https://mitp.silverchair-cdn.com/mitp/content_public/books/5208/book/3/m_9780262366151-cover.jpeg"
+    },
+    {
+        "title": "Cats, Carpenters, and Accountants",
+        "author": "Wayne DeFremey",
+        "edition": "none",
+        "category": "Accounts",
+        "url": "https://watermark.silverchair.com/book_9780262377966.pdf?token=AQECAHi208BE49Ooan9kkhW_Ercy7Dm3ZL_9Cf3qfKAc485ysgAAAywwggMoBgkqhkiG9w0BBwagggMZMIIDFQIBADCCAw4GCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMUpqiJ5B15B532yAmAgEQgIIC38MqCKjcmSK4VwTJjCTS4DoEgQwlPpSOH6EZyuCVfYv5hBELgJvxsmssso77Pin-X2bIp7G2zClNJS_3KhR4ckK1le90lhSKFvMPTug0FtBdNq6yFWmXIgKu8esjpxWnsdG0qalSQvPfrPV5enVVx16LH3IvZKVmRmxa3TmNezNUNMuZlXWZORx9eZamoYM6txE4-_EQEVuh7ZzuWa9BSloFjngy34BckhBRXudIja1yiUN7MkJ-Q8IlMpAZJcxi02pZUdFMrDH8vD3z8bBbdQRkWzH4qqJoUgo74I1D0g0JKa1RRg8J5cidhJqJtsfE23HWpXT9I7FMI4bfw92_MuOzjQkwe1vpXaQTZ3rLOW9k0e4mjBfhi_GFy3ZetHjxEeoJJR6CtGidG8QWU7CHb1QqRTnV-Mfy-sVw2di66MfgbB3AMHU0cox92xBGZaZVjOWamd_yR9gfFd6vBcaQUGCqeJJpvBGN3oZEUYr0nDNCtS9Zovtu1te-M-dbLvrKxFXUfhyA7hDDtU5N7PKfxcYWk4E9_v9uv7qbOA5gSvRDNC6TGbI3ja1xSSezRrmr2v1y3HlJRkZKsiSkBRPARAAIw4sbZV_DzChtqS58BBRaG-dfSQ8opdYd2mi0WqYSvWFIy4K01Poptn0AxyEV",
+        "image": "https://m.media-amazon.com/images/I/91o5psLK6HL._AC_UF1000,1000_QL80_.jpg"
+    },
+    
 
 
 
