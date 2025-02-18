@@ -824,7 +824,7 @@ const books = [
         "edition": "none",
         "category": "Accounts",
         "url": "https://direct.mit.edu/books/oa-monograph-pdf/2244246/book_9780262366151.pdf",
-        "image": " https://mitp.silverchair-cdn.com/mitp/content_public/books/5208/book/3/m_9780262366151-cover.jpeg"
+        "image": " https://mitp.silverchair-cdn.com/mitp/content_public/books/5208/book/3/m_9780262366151-cover.jpeg?Expires=1742309971&Signature=Mx6aKKpY4ho-4CbF7e6QHVFAwRKaxMK2qAq3ioFxLhxUIb9prkIvh~VJqvAjkYGtO4G2Mqz7sRT~uzNtW15kVhHLB7RJ8HyUITa9EhRlmgk6Nk~B80Ya~1-Z6VlyJ46do-qb5zeT8w8w0PDMld2hqu8auJygnHrMIYFDLi39ecF1yVnMl3OrR-9GRBS22BvqRdPeTbqQhU9oqf0o34LQPr~jBVdWkAO04M-eTytJxK1g5bcE8xN2Zcd~FqxPQsqsiQwP0LEkvTwzBHhcMa443vEUyUupVufOy7UhwrYhkZZopU3~~KQc5u8I7-wxA9HayF34RIqVmLudkiLkwbRK9Q__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
     },
     {
         "title": "Cats, Carpenters, and Accountants",
@@ -833,6 +833,70 @@ const books = [
         "category": "Accounts",
         "url": "https://watermark.silverchair.com/book_9780262377966.pdf?token=AQECAHi208BE49Ooan9kkhW_Ercy7Dm3ZL_9Cf3qfKAc485ysgAAAywwggMoBgkqhkiG9w0BBwagggMZMIIDFQIBADCCAw4GCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMUpqiJ5B15B532yAmAgEQgIIC38MqCKjcmSK4VwTJjCTS4DoEgQwlPpSOH6EZyuCVfYv5hBELgJvxsmssso77Pin-X2bIp7G2zClNJS_3KhR4ckK1le90lhSKFvMPTug0FtBdNq6yFWmXIgKu8esjpxWnsdG0qalSQvPfrPV5enVVx16LH3IvZKVmRmxa3TmNezNUNMuZlXWZORx9eZamoYM6txE4-_EQEVuh7ZzuWa9BSloFjngy34BckhBRXudIja1yiUN7MkJ-Q8IlMpAZJcxi02pZUdFMrDH8vD3z8bBbdQRkWzH4qqJoUgo74I1D0g0JKa1RRg8J5cidhJqJtsfE23HWpXT9I7FMI4bfw92_MuOzjQkwe1vpXaQTZ3rLOW9k0e4mjBfhi_GFy3ZetHjxEeoJJR6CtGidG8QWU7CHb1QqRTnV-Mfy-sVw2di66MfgbB3AMHU0cox92xBGZaZVjOWamd_yR9gfFd6vBcaQUGCqeJJpvBGN3oZEUYr0nDNCtS9Zovtu1te-M-dbLvrKxFXUfhyA7hDDtU5N7PKfxcYWk4E9_v9uv7qbOA5gSvRDNC6TGbI3ja1xSSezRrmr2v1y3HlJRkZKsiSkBRPARAAIw4sbZV_DzChtqS58BBRaG-dfSQ8opdYd2mi0WqYSvWFIy4K01Poptn0AxyEV",
         "image": "https://m.media-amazon.com/images/I/91o5psLK6HL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+        "title": "Association of Physical Fitness",
+        "author": "Clemens Drenowatz",
+        "edition": "none",
+        "category": "Health-Care",
+        "url": "https://mdpi-res.com/bookfiles/book/7039/Association_of_Physical_Fitness_and_Motor_Competence_with_Health_and_WellBeing_in_Children_and_Adolescents.pdf?v=1739844372",
+        "image": "https://directory.doabooks.org/bitstream/handle/20.500.12854/98977/Association_of_Physical_Fitness_and_Motor_Competence_with_Health_and_WellBeing_in_Children_and_Adolescents.jpg%3fv1680526425?sequence=1&isAllowed=y"
+    },
+    {
+        "title": "",
+        "author": "",
+        "edition": "",
+        "category": "",
+        "url": "",
+        "image": ""
+    },
+    {
+        "title": "",
+        "author": "",
+        "edition": "",
+        "category": "",
+        "url": "",
+        "image": ""
+    },
+    {
+        "title": "",
+        "author": "",
+        "edition": "",
+        "category": "",
+        "url": "",
+        "image": ""
+    },
+    {
+        "title": "",
+        "author": "",
+        "edition": "",
+        "category": "",
+        "url": "",
+        "image": ""
+    },
+    {
+        "title": "",
+        "author": "",
+        "edition": "",
+        "category": "",
+        "url": "",
+        "image": ""
+    },
+    {
+        "title": "",
+        "author": "",
+        "edition": "",
+        "category": "",
+        "url": "",
+        "image": ""
+    },
+    {
+        "title": "",
+        "author": "",
+        "edition": "",
+        "category": "",
+        "url": "",
+        "image": ""
     },
     
 
