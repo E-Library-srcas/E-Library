@@ -66,7 +66,8 @@ function authenticateUser() {
         "23129058@srcas.ac.in": "23129058",
         "23129059@srcas.ac.in": "23129059",
         "23129060@srcas.ac.in": "23129060",
-        "sample@gmail.com": "sample"
+        "sample@gmail.com": "sample",
+        "1":"1"
     };
     let email = document.getElementById("email").value;
     let password = document.getElementById("password").value;
@@ -82,6 +83,70 @@ function authenticateUser() {
 
 
 const books = [
+    {
+        "title": "Operating System - Virtual Memory",
+        "author": "SRCAS Official",
+        "edition": "N/A",
+        "category": "Video-Contents",
+        "url": "https://www.youtube.com/embed/0SSxKMD3ICc",
+        "image": "https://img.youtube.com/vi/0SSxKMD3ICc/0.jpg"
+    },
+    {
+        "title": "Collaborating via Social",
+        "author": "SRCAS Official",
+        "edition": "N/A",
+        "category": "Video-Contents",
+        "url": "https://www.youtube.com/embed/IHrUjWxvH5Q",
+        "image": "https://img.youtube.com/vi/IHrUjWxvH5Q/0.jpg"
+    },
+    {
+        "title": "Rgraph using Canvas",
+        "author": "SRCAS Official",
+        "edition": "N/A",
+        "category": "Video-Contents",
+        "url": "https://www.youtube.com/embed/-4gS3bgfNxM",
+        "image": "https://img.youtube.com/vi/-4gS3bgfNxM/0.jpg"
+    },
+    {
+        "title": "Files in C",
+        "author": "SRCAS Official",
+        "edition": "N/A",
+        "category": "Video-Contents",
+        "url": "https://www.youtube.com/embed/MebghzmgXyo",
+        "image": "https://img.youtube.com/vi/MebghzmgXyo/0.jpg"
+    },
+    {
+        "title": "Introduction to Deep Learning",
+        "author": "SRCAS Official",
+        "edition": "N/A",
+        "category": "Video-Contents",
+        "url": "https://www.youtube.com/embed/xbsOaIgYCAQ",
+        "image": "https://img.youtube.com/vi/xbsOaIgYCAQ/0.jpg"
+    },
+    {
+        "title": "Cluster Analysis",
+        "author": "SRCAS Official",
+        "edition": "N/A",
+        "category": "Video-Contents",
+        "url": "https://www.youtube.com/embed/57xj5tlbZ68",
+        "image": "https://img.youtube.com/vi/57xj5tlbZ68/0.jpg"
+    },
+    {
+        "title": "Searching - Data Structures",
+        "author": "SRCAS Official",
+        "edition": "N/A",
+        "category": "Video-Contents",
+        "url": "https://www.youtube.com/embed/EAEE9A_Gjog",
+        "image": "https://img.youtube.com/vi/EAEE9A_Gjog/0.jpg"
+    },
+    {
+        "title": "GRAPHS in Data Structures",
+        "author": "SRCAS Official",
+        "edition": "N/A",
+        "category": "Video-Contents",
+        "url": "https://www.youtube.com/embed/Wf2L-4PYfuA",
+        "image": "https://img.youtube.com/vi/Wf2L-4PYfuA/0.jpg"
+    },
             {
         "title": "Introduction to Python",
         "author": "UDAYAN DAS",
@@ -875,15 +940,31 @@ const books = [
             filteredBooks.forEach(book => {
                 const bookItem = document.createElement("div");
                 bookItem.className = "bookItem";
-                bookItem.innerHTML = `<img src="${book.image}" class="bookImage">
-                                      <div class="bookTitle">${book.title}</div>
-                                      <div>Author: ${book.author}</div>
-                                      <div>Edition: ${book.edition}</div>
-                                      <div>Category: ${book.category}</div>
-                                      <a href="${book.url}" target="_blank" class="downloadBtn">Download</a>`;
+        
+                if (book.category === "Video-Contents") {
+                    // Display videos with a "Watch" button
+                    bookItem.innerHTML = `
+                        <img src="${book.image}" class="bookImage">
+                        <div class="bookTitle">${book.title}</div>
+                        <div>Author: ${book.author}</div>
+                        <div>Category: ${book.category}</div>
+                        <a href="${book.url}" target="_blank" class="watchBtn">Watch</a>
+                    `;
+                } else {
+                    // Display normal books with a "Download" button
+                    bookItem.innerHTML = `
+                        <img src="${book.image}" class="bookImage">
+                        <div class="bookTitle">${book.title}</div>
+                        <div>Author: ${book.author}</div>
+                        <div>Edition: ${book.edition}</div>
+                        <div>Category: ${book.category}</div>
+                        <a href="${book.url}" target="_blank" class="downloadBtn">Download</a>
+                    `;
+                }
+        
                 bookList.appendChild(bookItem);
             });
-        }
+        }        
 
         function searchBooks() {
             const query = document.getElementById("searchBox").value.toLowerCase().split(" ");
