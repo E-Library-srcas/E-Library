@@ -331,6 +331,14 @@ const books = [
         "url": "https://staff.um.edu.mt/__data/assets/pdf_file/0010/57169/jn.pdf",
         "image": "https://2.imimg.com/data2/WE/TT/MY-/6-250x250.jpg"
     },
+    {
+        "title": "Python for Programmers",
+        "author": "Paul Deitel & Harvey Deitel",
+        "edition": "none",
+        "category": "Programming",
+        "url": "https://dl.ebooksworld.ir/motoman/Python.for.Programmers.with.Big.Data.and.Artificial.Intelligence.Case.Studies.www.EBooksWorld.ir.pdf",
+        "image": "https://m.media-amazon.com/images/I/711sLehADbL._AC_UF1000,1000_QL80_.jpg"
+    },
 {
         "title": "Advanced Java",
         "author": "ANDRIY REDKO",
