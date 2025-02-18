@@ -843,69 +843,29 @@ const books = [
         "image": "https://directory.doabooks.org/bitstream/handle/20.500.12854/98977/Association_of_Physical_Fitness_and_Motor_Competence_with_Health_and_WellBeing_in_Children_and_Adolescents.jpg%3fv1680526425?sequence=1&isAllowed=y"
     },
     {
-        "title": "",
-        "author": "",
-        "edition": "",
-        "category": "",
-        "url": "",
-        "image": ""
+        "title": "Quantum Entanglement in High Energy Physics",
+        "author": "Oliver K. Baker",
+        "edition": "none",
+        "category": "Physics",
+        "url": "https://intech-files.s3.amazonaws.com/a043Y00000zXAyYQAW/0015109_Authors_Book%20%282024-05-09%2013%3A59%3A36%29.pdf",
+        "image": "https://m.media-amazon.com/images/I/51kiIuHh8PL._AC_UF1000,1000_QL80_.jpg"
     },
     {
-        "title": "",
-        "author": "",
-        "edition": "",
-        "category": "",
-        "url": "",
-        "image": ""
+        "title": "Mineral Physics—In Memory of Orson Anderson",
+        "author": "Robert Cooper Liebermann",
+        "edition": "none",
+        "category": "Physics",
+        "url": "https://mdpi-res.com/bookfiles/book/2663/Mineral_PhysicsIn_Memory_of_Orson_Anderson.pdf?v=1739844149",
+        "image": "https://m.media-amazon.com/images/I/61E0wPpTzyL.jpg"
     },
     {
-        "title": "",
-        "author": "",
-        "edition": "",
-        "category": "",
-        "url": "",
-        "image": ""
-    },
-    {
-        "title": "",
-        "author": "",
-        "edition": "",
-        "category": "",
-        "url": "",
-        "image": ""
-    },
-    {
-        "title": "",
-        "author": "",
-        "edition": "",
-        "category": "",
-        "url": "",
-        "image": ""
-    },
-    {
-        "title": "",
-        "author": "",
-        "edition": "",
-        "category": "",
-        "url": "",
-        "image": ""
-    },
-    {
-        "title": "",
-        "author": "",
-        "edition": "",
-        "category": "",
-        "url": "",
-        "image": ""
-    },
-    
-
-
-
-
-
-
-            
+        "title": "  Health Promotion in Health Care ",
+        "author": "Gørill Haugan",
+        "edition": "none",
+        "category": "Health-Care",
+        "url": "https://library.oapen.org/bitstream/20.500.12657/47291/1/9783030631352.pdf",
+        "image": "https://m.media-amazon.com/images/I/51WrmWyuSJL._AC_UF1000,1000_QL80_.jpg"
+    }   
         ];
 
         function displayBooks(filteredBooks) {
