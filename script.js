@@ -544,7 +544,7 @@ const books = [
         "edition": "1st",
         "category": "Biology",
         "url": "https://www.basicbiology.net/wp-content/uploads/edd/2018/05/Basic-Biology-an-introduction.pdf",
-        "image": "https://cdn.kobo.com/book-images/be9902c6-4ace-43c7-b2ce-ae6dd04e933f/353/569/90/False/basic-biology-1.jpg"
+        "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQqvcwDX1Hed1MUOCAcfxFeBqFlL4fDzsiG7F0SMMt6OA3M0fe-"
     },
     {
         "title": "BIOLOGY FOR ENGINEERS",
@@ -634,6 +634,119 @@ const books = [
         "url": "https://edcuration.com/resource/product/1066/8_Math_Hacks_and_Tricks_to_Turn_Okay_Student_to_Math_Champion%20(1).pdf",
         "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSckk25-lAfAAdFvPwXXKzll3DhZch5-v3ppzHLFyOdg5ENmXtH"
     },
+    {
+        "title": "Chalcogen Chemistry",
+        "author": "Peter Papoh Ndibewu",
+        "edition": "none",
+        "category": "Chemistry",
+        "url": "https://mts.intechopen.com/storage/books/6797/authors_book/authors_book.pdf",
+        "image": "https://cdnintech.com/books/6797/1718275681-1689857007/web-cover.jpg"
+    },
+    {
+        "title": "Exploring Chemistry with Pyridine Derivatives",
+        "author": "Satyanarayan Pal",
+        "edition": "none",
+        "category": "Chemistry",
+        "url": "https://mts.intechopen.com/storage/books/11562/authors_book/authors_book.pdf",
+        "image": "https://m.media-amazon.com/images/I/51LKO7IYOIL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+        "title": "Green Chemistry for Environmental Sustainability",
+        "author": "Kinjal J. Shah",
+        "edition": "none",
+        "category": "Chemistry",
+        "url": "https://intech-files.s3.amazonaws.com/a043Y00000zFsnCQAS/0014980_Authors_Book%20%282024-02-08%2014%3A33%3A32%29.pdf",
+        "image": "https://cdnintech.com/books/1003076/1721026751-206203731/web-cover.jpg"
+    },
+    {
+        "title": "Organic Synthesis",
+        "author": "Belakatte Parameshwarappa Nandeshwarappa",
+        "edition": "none",
+        "category": "Chemistry",
+        "url": "https://mts.intechopen.com/storage/books/9197/authors_book/authors_book.pdf",
+        "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR7SOSR29ktRLAEyoGsomPms_BBy5qicRWhN7Zd7R8Yuyvpp4AY"
+    },
+    {
+        "title": "Molecular Simulation in Interface and Surfactant",
+        "author": "Shiling Yuan and Heng Zhang",
+        "edition": "1st",
+        "category": "Chemistry",
+        "url": "https://mdpi-res.com/bookfiles/book/7231/Molecular_Simulation_in_Interface_and_Surfactant.pdf?v=1739844383",
+        "image": "https://mdpi-res.com/bookfiles/book/7231/Molecular_Simulation_in_Interface_and_Surfactant.jpg?v=1731117865"
+    },
+    {
+        "title": "Basic Concepts Viewed from Frontier in Inorganic Coordination Chemistry",
+        "author": "Takashiro Akitsu",
+        "edition": "none",
+        "category": "Chemistry",
+        "url": "https://mts.intechopen.com/storage/books/7549/authors_book/authors_book.pdf",
+        "image": "https://m.media-amazon.com/images/I/71yETEel2xS._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+        "title": "Surface Chemistry and Catalysis",
+        "author": "Michalis Konsolakis",
+        "edition": "none",
+        "category": "Chemistry",
+        "url": "https://mdpi-res.com/bookfiles/book/240/Surface_Chemistry_and_Catalysis.pdf?v=1739844043",
+        "image": "https://m.media-amazon.com/images/I/61UlC3J+aSL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+        "title": "Green Chemistry",
+        "author": "Brajesh Kumar",
+        "edition": "none",
+        "category": "Chemistry",
+        "url": "https://mts.intechopen.com/storage/books/11211/authors_book/authors_book.pdf",
+        "image": "https://m.media-amazon.com/images/I/51-yVag8E5L._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+        "title": "Biomimetic Radical Chemistry and Applications 2021",
+        "author": "Chryssostomos Chatgilialoglu",
+        "edition": "none",
+        "category": "Chemistry",
+        "url": "https://mdpi-res.com/bookfiles/book/5499/Biomimetic_Radical_Chemistry_and_Applications_2021.pdf?v=1739844293",
+        "image": "https://mdpi-res.com/bookfiles/book/5499/Biomimetic_Radical_Chemistry_and_Applications_2021.png?v=1736301870"
+    },
+    {
+        "title": "Frontiers in Nucleic Acid Chemistry",
+        "author": "Ramon Eritja",
+        "edition": "none",
+        "category": "Chemistry",
+        "url": "https://mdpi-res.com/bookfiles/book/8586/Frontiers_in_Nucleic_Acid_Chemistry_in_Memory_of_Professor_Enrique_Pedroso_for_His_Outstanding_Contributions_to_Nucleic_Acid_Chemistry.pdf?v=1739844446",
+        "image": "https://m.media-amazon.com/images/I/61bvLCjMcDL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+        "title": "Recent Advances in Analytical Chemistry",
+        "author": "Muharrem Ince",
+        "edition": "none",
+        "category": "Chemistry",
+        "url": "https://mts.intechopen.com/storage/books/8637/authors_book/authors_book.pdf",
+        "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ0Y_gXLNb3jq0Cco-0H9Vv4ZhO0CnHSAHAK7a1LEINPFec6kM-"
+    },
+    {
+        "title": "Alkaline Chemistry and Applications",
+        "author": "Riadh Marzouki",
+        "edition": "none",
+        "category": "Chemistry",
+        "url": "https://mts.intechopen.com/storage/books/10581/authors_book/authors_book.pdf",
+        "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTjuGlyuC8zs3qqI7eFb_yxwF_dPUFYqXTIHpx7rgR1Z69HlPEX"
+    },
+    {
+        "title": "Recent Progress in Organometallic Chemistry",
+        "author": "Mohammed Muzibur Rahma",
+        "edition": "none",
+        "category": "Chemistry",
+        "url": "https://mts.intechopen.com/storage/books/5848/authors_book/authors_book.pdf",
+        "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRl0OC1jpSX1eMNPDtSVoNYZ2adED9SGF_hgD3rLfxp7SQgkQWS"
+    },
+    {
+        "title": "",
+        "author": "",
+        "edition": "",
+        "category": "",
+        "url": "",
+        "image": ""
+    },
+
 
 
 
